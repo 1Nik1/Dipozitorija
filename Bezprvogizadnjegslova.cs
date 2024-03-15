@@ -33,6 +33,6 @@ class Program
             Console.WriteLine("Tekst mora imati više od 2 znaka jer inače nema što ispisati!!!!!!!!!!!!!!!!!!!!!!");
         }
 
-        Console.ReadLine(); // Zaustavi konzolu da se zatvori odmah
+        Console.ReadLine();
     }
 }
